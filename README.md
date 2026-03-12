@@ -1,12 +1,21 @@
 # Eros — Legal Documents
 
-Official legal documents for **Eros: Impulso, Ritmo, Esencia** — fitness companion app.
+> *Impulso · Ritmo · Esencia*
 
-## Pages
+Official legal documents for the **Eros** fitness companion app.  
+Documentos legales oficiales de la app **Eros**.
 
-- [Privacy Policy / Política de Privacidad](https://eros-asm.github.io/Eros-Legal/)
-- [Terms & Conditions / Términos y Condiciones](https://eros-asm.github.io/Eros-Legal/terms.html)
+---
 
-## Contact
+## 📄 Documents / Documentos
+
+| | Español | English |
+|---|---|---|
+| Política de Privacidad / Privacy Policy | [Ver](https://eros-asm.github.io/Eros-Legal/) | [View](https://eros-asm.github.io/Eros-Legal/) |
+| Términos y Condiciones / Terms & Conditions | [Ver](https://eros-asm.github.io/Eros-Legal/terms.html) | [View](https://eros-asm.github.io/Eros-Legal/terms.html) |
+
+---
+
+## 📬 Contact / Contacto
 
 eros.desarrollo@gmail.com
