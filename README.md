@@ -9,13 +9,17 @@ Documentos legales oficiales de la app **Eros**.
 
 ## 📄 Documents / Documentos
 
-| | Español | English |
-|---|---|---|
-| Política de Privacidad / Privacy Policy | [Ver](https://eros-asm.github.io/Eros-Legal/) | [View](https://eros-asm.github.io/Eros-Legal/) |
-| Términos y Condiciones / Terms & Conditions | [Ver](https://eros-asm.github.io/Eros-Legal/terms.html) | [View](https://eros-asm.github.io/Eros-Legal/terms.html) |
+| Documento | Link |
+|---|---|
+| Política de Privacidad / Privacy Policy | [Abrir / Open ↗](https://eros-asm.github.io/Eros-Legal/) |
+| Términos y Condiciones / Terms & Conditions | [Abrir / Open ↗](https://eros-asm.github.io/Eros-Legal/terms.html) |
 
 ---
 
 ## 📬 Contact / Contacto
 
-eros.desarrollo@gmail.com
+[eros.desarrollo@gmail.com](mailto:eros.desarrollo@gmail.com)
+
+---
+
+*© 2026 Eros App. All rights reserved.*
